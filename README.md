@@ -4,7 +4,9 @@
 
 * [About](#about)
 * [Context](#context)
-* [Instructions](#instructions)
+* [Required Features](#required)
+* [Technologies](#technologies)
+* [Author](#author)
 
 ## About
 
@@ -30,6 +32,6 @@ the word or sentence and a means to display the result to the user.
 
 UI Template: https://allebd.github.io/scoobyDooTranslate/
 
-## AUTHOR
+## Author
 
 [Bella Oyedele](https://github.com/allebd)
