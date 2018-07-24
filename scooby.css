@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+body:before {
+  content: " ";
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 150%;
+  top: 0;
+  left: 0;
+  opacity: 0.7;
+  background: url("https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2018/05/be_cool_scooby-doo.jpg");
+}
+
+h1 {
+  font-family: "Walter Turncoat";
+  font-style: italic;
+  text-shadow: 3px 3px orange;
+  color: purple;
+  text-align: center;
+  font-size: 50px;
+}
+
+form {
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.scoobyWord,
+.scoobyWord textarea {
+  height: 200px;
+  width: 500px;
+  background: #ffffff;
+  border: none;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.scoobyWord textarea {
+  height: 200px;
+  width: 500px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 0px;
+  font-size: 25px;
+}
+
+.copyright{
+  margin-top: 7px;
+  text-align:center;
+}
