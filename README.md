@@ -30,7 +30,7 @@ the word or sentence and a means to display the result to the user.
 * CSS
 * JavaScript
 
-UI Template: https://allebd.github.io/scoobyDooTranslate/
+UI Template: <https://allebd.github.io/scoobyDooTranslate/>
 
 ## Author
 
